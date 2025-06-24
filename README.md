@@ -10,7 +10,7 @@
 | 221031185  |  João Artur Leles Ferreira Pinheiro|
 
 ## Sobre 
-Resolução de questões do LeetCode (3 questões por integrante do grupo) com o objetivo de demonstrar o conhecimento adquirido no Terceiro módulo módulo da disciplina.
+Resolução de questões do LeetCode (3 questões por integrante do grupo) com o objetivo de demonstrar o conhecimento adquirido no Quarto módulo módulo da disciplina.
 
 ## Instalação
 Linguagem: C++ 
