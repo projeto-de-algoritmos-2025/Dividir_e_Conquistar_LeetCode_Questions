@@ -27,4 +27,4 @@ Pré-requisitos: Compilador de C++, como o GCC
 | 6 |[1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Dividir_e_Conquistar_LeetCode_Questions/blob/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569.cpp) | Difícil | João Artur Leles|
 
 ## Vídeos de Apresentação
-- [Vídeo de apresentação]().
+- [Vídeo de apresentação](https://youtu.be/awqXluejsJE).
